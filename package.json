@@ -1,0 +1,21 @@
+{
+  "name": "foursquare_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0-rc.5",
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "foursquarevenues": "^2.0.0",
+    "http": "0.0.0",
+    "log4js": "^0.6.36",
+    "pg": "^4.5.5",
+    "underscore": "^1.8.3"
+  }
+}
